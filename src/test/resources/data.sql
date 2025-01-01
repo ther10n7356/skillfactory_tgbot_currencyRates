@@ -1,0 +1,1 @@
+insert into spend(id, chat_id, spend) values (12345, 2, 3000);
